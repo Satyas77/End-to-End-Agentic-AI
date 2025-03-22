@@ -13,4 +13,8 @@ short_description: Refined langgraphAgenticAI
 
 ### End To End Agentic AI Projects
 
+This is a End to End Agentic AI code repository, ready to deploy on Hugging face or any other platform.
+User interface is developed using streamlit framework.
+LLM used is Groq, however you can goahead to configure any of the LLMs available.
+
 
